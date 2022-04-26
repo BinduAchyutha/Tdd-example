@@ -1,0 +1,22 @@
+{
+  "name": "tdd-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinduAchyutha/Tdd-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinduAchyutha/Tdd-example/issues"
+  },
+  "homepage": "https://github.com/BinduAchyutha/Tdd-example#readme",
+  "dependencies": {
+    "jest": "^28.0.0"
+  }
+}
